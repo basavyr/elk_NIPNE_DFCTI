@@ -1,0 +1,18 @@
+{
+    "@timestamp": "2019-10-14T14:53:19.793Z",
+    "JOB": {
+        "job_Details": {
+            "Time": "13:31:10",
+            "owner": "/DC=EU/DC=EGI/C=GR/O=Robots/O=Greek Research and Technology Network/CN=Robot:argo-egi@grnet.gr",
+            "Workload_Manager_Type": "SLURM",
+            "Workload_Manager_id": "66918",
+            "user_Name": "org.nordugrid.ARC-CE-result-ops",
+            "user_ID": "45001:45000",
+            "queue_Type": "parallel1",
+            "Date": "2019-07-15",
+            "user_Type": "unix user"
+        },
+        "job_status": "Finished",
+        "job_id": "V3gNDm1MD7unkvVVEmSjiJLoABFKDmABFKDmtdGKDmABFKDmN8Erlm"
+    }
+}

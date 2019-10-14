@@ -19,6 +19,8 @@ Current setup:
 
 ## to-do(s)
 
+> Follow the [CHANGELOG](CHANGELOG.md) file for latest updates!
+
 A. Optimal setup (**NOT IMPLEMENTED YET**):
  * Elastic server
  * Kibana
