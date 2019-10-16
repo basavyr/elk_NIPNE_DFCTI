@@ -1,0 +1,196 @@
+{
+    "job_ID": "wtVLDmSGA7unkvVVEmSjiJLoABFKDmABFKDmZWLKDmABFKDmCwdbHm",
+    "job_Details": {
+        "user_Name": "eu.egi.sec.ARC-CE-result-ops",
+        "user_ID": "45001:45000",
+        "queue_Type": "debug",
+        "Finish_Time": "2019-07-15T07:14:11.000Z",
+        "Workload_Mgr": "SLURM",
+        "Start_Time": "2019-07-15T07:07:40.000Z",
+        "job_Duration": 6.516666666666667,
+        "Workload_Mgr_ID": "66904",
+        "job_Owner": "/DC=EU/DC=EGI/C=GR/O=Robots/O=Greek Research and Technology Network/CN=Robot:argo-secmon@grnet.gr"
+    }
+} {
+    "job_ID": "XPHODmpYA7unkvVVEmSjiJLoABFKDmABFKDmPPNKDmABFKDm9nRykn",
+    "job_Details": {
+        "user_Name": "org.nordugrid.ARC-CE-result-ops",
+        "user_ID": "45001:45000",
+        "queue_Type": "parallel1",
+        "Finish_Time": "2019-07-15T07:31:11.000Z",
+        "Workload_Mgr": "SLURM",
+        "Start_Time": "2019-07-15T07:26:40.000Z",
+        "job_Duration": 4.516666666666667,
+        "Workload_Mgr_ID": "66905",
+        "job_Owner": "/DC=EU/DC=EGI/C=GR/O=Robots/O=Greek Research and Technology Network/CN=Robot:argo-egi@grnet.gr"
+    }
+} {
+    "job_ID": "glsNDmYqA7unkvVVEmSjiJLoABFKDmABFKDmhsGKDmABFKDmLqsFXn",
+    "job_Details": {
+        "user_Name": "org.nordugrid.ARC-CE-SRM-result-ops",
+        "user_ID": "45001:45000",
+        "queue_Type": "debug",
+        "Finish_Time": "2019-07-15T07:45:37.000Z",
+        "Workload_Mgr": "SLURM",
+        "Start_Time": "2019-07-15T07:44:59.000Z",
+        "job_Duration": 0.6333333333333333,
+        "Workload_Mgr_ID": "66906",
+        "job_Owner": "/DC=EU/DC=EGI/C=HR/O=Robots/O=SRCE/CN=Robot:argo-egi@cro-ngi.hr"
+    }
+} {
+    "job_ID": "auQMDmcBB7unkvVVEmSjiJLoABFKDmABFKDmr3IKDmABFKDmN811Bo",
+    "job_Details": {
+        "user_Name": "org.nordugrid.ARC-CE-result-ops",
+        "user_ID": "45001:45000",
+        "queue_Type": "parallel1",
+        "Finish_Time": "2019-07-15T08:07:43.000Z",
+        "Workload_Mgr": "SLURM",
+        "Start_Time": "2019-07-15T08:06:44.000Z",
+        "job_Duration": 0.9833333333333333,
+        "Workload_Mgr_ID": "66907",
+        "job_Owner": "/DC=EU/DC=EGI/C=HR/O=Robots/O=SRCE/CN=Robot:argo-egi@cro-ngi.hr"
+    }
+} {
+    "job_ID": "XlTNDmYCB7unkvVVEmSjiJLoABFKDmABFKDmQEJKDmABFKDm7ZNTMm",
+    "job_Details": {
+        "user_Name": "eu.egi.sec.ARC-CE-result-ops",
+        "user_ID": "45001:45000",
+        "queue_Type": "parallel1",
+        "Finish_Time": "2019-07-15T08:14:13.000Z",
+        "Workload_Mgr": "SLURM",
+        "Start_Time": "2019-07-15T08:07:43.000Z",
+        "job_Duration": 6.5,
+        "Workload_Mgr_ID": "66908",
+        "job_Owner": "/DC=EU/DC=EGI/C=GR/O=Robots/O=Greek Research and Technology Network/CN=Robot:argo-secmon@grnet.gr"
+    }
+} {
+    "job_ID": "dU3KDmuUB7unkvVVEmSjiJLoABFKDmABFKDmD9KKDmABFKDmLlFb2m",
+    "job_Details": {
+        "user_Name": "org.nordugrid.ARC-CE-result-ops",
+        "user_ID": "45001:45000",
+        "queue_Type": "parallel1",
+        "Finish_Time": "2019-07-15T08:31:11.000Z",
+        "Workload_Mgr": "SLURM",
+        "Start_Time": "2019-07-15T08:26:40.000Z",
+        "job_Duration": 4.516666666666667,
+        "Workload_Mgr_ID": "66909",
+        "job_Owner": "/DC=EU/DC=EGI/C=GR/O=Robots/O=Greek Research and Technology Network/CN=Robot:argo-egi@grnet.gr"
+    }
+} {
+    "job_ID": "LxeMDmdmB7unkvVVEmSjiJLoABFKDmABFKDmOzMKDmABFKDmzfVASn",
+    "job_Details": {
+        "user_Name": "org.nordugrid.ARC-CE-SRM-result-ops",
+        "user_ID": "45001:45000",
+        "queue_Type": "parallel1",
+        "Finish_Time": "2019-07-15T08:45:37.000Z",
+        "Workload_Mgr": "SLURM",
+        "Start_Time": "2019-07-15T08:44:59.000Z",
+        "job_Duration": 0.6333333333333333,
+        "Workload_Mgr_ID": "66910",
+        "job_Owner": "/DC=EU/DC=EGI/C=HR/O=Robots/O=SRCE/CN=Robot:argo-egi@cro-ngi.hr"
+    }
+} {
+    "job_ID": "C0RNDmg7B7unkvVVEmSjiJLoABFKDmABFKDmXhGKDmABFKDme5YAIo",
+    "job_Details": {
+        "user_Name": "org.nordugrid.ARC-CE-result-ops",
+        "user_ID": "45001:45000",
+        "queue_Type": "debug",
+        "Finish_Time": "2019-07-15T09:07:42.000Z",
+        "Workload_Mgr": "SLURM",
+        "Start_Time": "2019-07-15T09:06:45.000Z",
+        "job_Duration": 0.95,
+        "Workload_Mgr_ID": "66911",
+        "job_Owner": "/DC=EU/DC=EGI/C=HR/O=Robots/O=SRCE/CN=Robot:argo-egi@cro-ngi.hr"
+    }
+} {
+    "job_ID": "e2nKDmc8B7unkvVVEmSjiJLoABFKDmABFKDm6pGKDmABFKDmgApGdn",
+    "job_Details": {
+        "user_Name": "eu.egi.sec.ARC-CE-result-ops",
+        "user_ID": "45001:45000",
+        "queue_Type": "parallel1",
+        "Finish_Time": "2019-07-15T09:14:13.000Z",
+        "Workload_Mgr": "SLURM",
+        "Start_Time": "2019-07-15T09:07:42.000Z",
+        "job_Duration": 6.516666666666667,
+        "Workload_Mgr_ID": "66912",
+        "job_Owner": "/DC=EU/DC=EGI/C=GR/O=Robots/O=Greek Research and Technology Network/CN=Robot:argo-secmon@grnet.gr"
+    }
+} {
+    "job_ID": "45fKDmyQC7unkvVVEmSjiJLoABFKDmABFKDmCkIKDmABFKDm3eXyDo",
+    "job_Details": {
+        "user_Name": "org.nordugrid.ARC-CE-result-ops",
+        "user_ID": "45001:45000",
+        "queue_Type": "parallel1",
+        "Finish_Time": "2019-07-15T09:31:11.000Z",
+        "Workload_Mgr": "SLURM",
+        "Start_Time": "2019-07-15T09:26:40.000Z",
+        "job_Duration": 4.516666666666667,
+        "Workload_Mgr_ID": "66913",
+        "job_Owner": "/DC=EU/DC=EGI/C=GR/O=Robots/O=Greek Research and Technology Network/CN=Robot:argo-egi@grnet.gr"
+    }
+} {
+    "job_ID": "i97MDmjiC7unkvVVEmSjiJLoABFKDmABFKDmZZKKDmABFKDmMtyCSn",
+    "job_Details": {
+        "user_Name": "org.nordugrid.ARC-CE-SRM-result-ops",
+        "user_ID": "45001:45000",
+        "queue_Type": "parallel1",
+        "Finish_Time": "2019-07-15T09:45:36.000Z",
+        "Workload_Mgr": "SLURM",
+        "Start_Time": "2019-07-15T09:45:02.000Z",
+        "job_Duration": 0.5666666666666667,
+        "Workload_Mgr_ID": "66914",
+        "job_Owner": "/DC=EU/DC=EGI/C=HR/O=Robots/O=SRCE/CN=Robot:argo-egi@cro-ngi.hr"
+    }
+} {
+    "job_ID": "9z2MDmtlC7unkvVVEmSjiJLoABFKDmABFKDm56KKDmABFKDmMev0Qm",
+    "job_Details": {
+        "user_Name": "org.nordugrid.ARC-CE-SRM-result-ops",
+        "user_ID": "45001:45000",
+        "queue_Type": "debug",
+        "Finish_Time": "2019-07-15T09:48:52.000Z",
+        "Workload_Mgr": "SLURM",
+        "Start_Time": "2019-07-15T09:48:18.000Z",
+        "job_Duration": 0.5666666666666667,
+        "Workload_Mgr_ID": "66915",
+        "job_Owner": "/DC=EU/DC=EGI/C=GR/O=Robots/O=Greek Research and Technology Network/CN=Robot:argo-egi@grnet.gr"
+    }
+} {
+    "job_ID": "xkdLDmk3C7unkvVVEmSjiJLoABFKDmABFKDmZwMKDmABFKDmR1SsZn",
+    "job_Details": {
+        "user_Name": "org.nordugrid.ARC-CE-result-ops",
+        "user_ID": "45001:45000",
+        "queue_Type": "debug",
+        "Finish_Time": "2019-07-15T10:08:11.000Z",
+        "Workload_Mgr": "SLURM",
+        "Start_Time": "2019-07-15T10:06:44.000Z",
+        "job_Duration": 1.45,
+        "Workload_Mgr_ID": "66916",
+        "job_Owner": "/DC=EU/DC=EGI/C=HR/O=Robots/O=SRCE/CN=Robot:argo-egi@cro-ngi.hr"
+    }
+} {
+    "job_ID": "zmuMDme4C7unkvVVEmSjiJLoABFKDmABFKDmN5MKDmABFKDm8LEcym",
+    "job_Details": {
+        "user_Name": "eu.egi.sec.ARC-CE-result-ops",
+        "user_ID": "45001:45000",
+        "queue_Type": "parallel1",
+        "Finish_Time": "2019-07-15T10:12:42.000Z",
+        "Workload_Mgr": "SLURM",
+        "Start_Time": "2019-07-15T10:07:41.000Z",
+        "job_Duration": 5.016666666666667,
+        "Workload_Mgr_ID": "66917",
+        "job_Owner": "/DC=EU/DC=EGI/C=GR/O=Robots/O=Greek Research and Technology Network/CN=Robot:argo-secmon@grnet.gr"
+    }
+} {
+    "job_ID": "V3gNDm1MD7unkvVVEmSjiJLoABFKDmABFKDmtdGKDmABFKDmN8Erlm",
+    "job_Details": {
+        "user_Name": "org.nordugrid.ARC-CE-result-ops",
+        "user_ID": "45001:45000",
+        "queue_Type": "parallel1",
+        "Finish_Time": "2019-07-15T10:31:10.000Z",
+        "Workload_Mgr": "SLURM",
+        "Start_Time": "2019-07-15T10:26:40.000Z",
+        "job_Duration": 4.5,
+        "Workload_Mgr_ID": "66918",
+        "job_Owner": "/DC=EU/DC=EGI/C=GR/O=Robots/O=Greek Research and Technology Network/CN=Robot:argo-egi@grnet.gr"
+    }
+}

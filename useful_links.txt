@@ -13,3 +13,11 @@ https://stackoverflow.com/questions/32555966/how-to-modify-or-add-a-json-field-f
 https://stackoverflow.com/questions/41427129/add-field-logstash-after-converting-value-to-json?rq=1
 
 https://discuss.elastic.co/t/add-field-from-json-logstash-filter/69364
+
+https://discuss.elastic.co/t/add-field-from-json-logstash-filter/69364
+
+https://discuss.elastic.co/t/sorting-based-on-event-time-in-logstash/91636/9
+
+https://www.elastic.co/guide/en/logstash/current/plugins-filters-date.html#plugins-filters-date-match
+
+https://logz.io/blog/logstash-mutate-filter/
