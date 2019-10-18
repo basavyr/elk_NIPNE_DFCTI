@@ -9,3 +9,4 @@ Used services
 ### Filebeat (optional)
 ### Logstash
 ### Kibana
+### Docker (optional)

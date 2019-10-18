@@ -34,4 +34,6 @@ C. Add task duration for each job
 
 D. Identify the job senders 
 
+C. Docker integration > *in progress*
+
 <robert.poenaru@protonmail.ch>

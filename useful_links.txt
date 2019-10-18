@@ -21,3 +21,7 @@ https://discuss.elastic.co/t/sorting-based-on-event-time-in-logstash/91636/9
 https://www.elastic.co/guide/en/logstash/current/plugins-filters-date.html#plugins-filters-date-match
 
 https://logz.io/blog/logstash-mutate-filter/
+
+https://www.howtoforge.com/tutorial/how-to-create-docker-images-with-dockerfile/
+
+https://www.sitepoint.com/how-to-build-an-image-with-the-dockerfile/
