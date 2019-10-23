@@ -1,0 +1,15 @@
+# This file is where you define your pipelines. You can define multiple.
+# For more information on multiple pipelines, see the documentation:
+#   https://www.elastic.co/guide/en/logstash/current/multiple-pipelines.html
+
+#- pipeline.id: metricbeat
+#  path.config: "/etc/logstash/conf.d/metricbeat.conf"
+
+#- pipeline.id: logstash
+#  path.config: "/etc/logstash/conf.d/log_conf.conf"
+- pipeline.id: filter1
+  path.config: "/etc/logstash/conf.d/log_conf.conf"
+  pipeline.workers: 3
+- pipeline.id: filter2
+  path.config: "/etc/logstash/conf.d/log_conf2.conf"
+  queue.type: persisted
